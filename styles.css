@@ -1,0 +1,30 @@
+.info {
+  position: relative;
+  left: 600px;
+  top: 70px;
+}
+
+.side-menu {
+  position: relative;
+  bottom: 300px;
+  left: 50px;
+}
+
+.logo {
+  position: relative;
+  top: 60px;
+}
+
+.profile-pic {
+  position: relative;
+  left: 1400px;
+  bottom: 20px;
+}
+
+.menu-box {
+  position: absolute;
+  bottom: 100px;
+  border: solid;
+  height: 350px;
+  width: 200px;
+}
